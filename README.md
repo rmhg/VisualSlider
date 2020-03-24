@@ -2,7 +2,7 @@
 ## What Is : <br/>
 It Is A Program To Make A Simple Paper Slider Work.<br/>
 Slider Looks Like This : <br/>
-<img src="/Sample.jpg">
+<img src="/Sample.jpg" height="850px" width="450px">
 ### Main Parts :<br/>
 1. Slider : Blue Colored Slider That Slides On The Base <br/>
 2. Base : White (Not Blue) On Which Slider Slides <br/>
